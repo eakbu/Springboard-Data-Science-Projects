@@ -3,6 +3,9 @@ This repository shows all mini project code, files, and data relevant to my work
 
 <img src="https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation/images/AffinityPropagation.png"></img>
 
+<img src="https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation/images/The%20Silhouette%20coefficient%20values%20plot.png"></img>
+
+
 # Clustering Methods
 ------------------------
 ## [K-Nearest Neighbors and PCA](https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation)
