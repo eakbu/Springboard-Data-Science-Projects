@@ -1,9 +1,8 @@
 # Springboard-Data-Science-Carier-Track-Mini-Projects
 This repository shows all mini project code, files, and data relevant to my work in the Springboard Data Science Carier Track program. The following acts as a table of contents for the whole repository with links to the respective work cited.
 
-<img src="https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation/images/AffinityPropagation.png"></img>
+<img src="https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation/images/Collage_clustering_Fotor.png"></img>
 
-<img src="https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Clustering_Project-Customer_Segmentation/images/The%20Silhouette%20coefficient%20values%20plot.png"></img>
 
 
 # Clustering Methods
