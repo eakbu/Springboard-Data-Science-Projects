@@ -63,12 +63,11 @@ This repository shows all mini project code, files, and data relevant to my work
 **Key Skills**
 * SQL 
 * Time Series Analysis
-* Applied Plotting and Charting
 
-**This is a SQL case study as proposed from Mode Analytics at https://modeanalytics.com/. The Jupyter notebook in this repository is a cleaned up verison of the original case study which contains all original SQL queries, and can be found here: https://modeanalytics.com/mooseburger/reports/14cbbb5670b8**
+**This is a SQL case study as proposed from Mode Analytics at https://modeanalytics.com/. The Jupyter notebook in this repository is a cleaned up verison of the original case study which contains all original SQL queries.
 
 # JSON
-## [Data Wrangling with JSON](https://github.com/Mooseburger1/Springboard-Data-Science-Immersive/tree/master/data_wrangling_json)
+## [Data Wrangling with JSON](https://github.com/eakbu/Springboard-Data-Science-Projects/tree/main/JSON-Data_Wrangling_Exercise)
 
 **Key Skills**
 * JSON Manipulation and Extraction
