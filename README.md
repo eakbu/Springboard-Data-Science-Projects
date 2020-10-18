@@ -51,12 +51,13 @@ This repository shows all mini project code, files, and data relevant to my work
 # PYSPARK
 ## [MapReduce with Pyspark]()
 
-**Performing several exercises utlitizing MapReduce Pyspark (RDD) with a touch of MLlib**
+**Performing several exercises utlitizing Pyspark (RDD) with a touch of MLlib**
 
 **Key Skills**
 * Pyspark
-* RDD
 * Spark Dataframes
+* Spark SQL
+* Spark ML Libraries
 
 # SQL
 ## [Understanding Country Club Database with SQL ](https://github.com/eakbu/Springboard-Data-Science-Projects/tree/main/SQL_Project)
