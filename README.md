@@ -49,7 +49,7 @@ This repository shows all mini project code, files, and data relevant to my work
 **Performing several Machine Learning Algorithms in miniprojects such as: Labeling an obersvation as either male or female based on height and weight data (Logistic Regression), Regression Price Estimate on Boston Housing data using Linear Regression, and predicting movie reviews with Naive Bayes Models**
 
 # PYSPARK
-## [MapReduce with Pyspark]()
+## [Spark Project-Databricks](https://github.com/eakbu/Springboard-Data-Science-Projects/blob/main/Spark_Project-Databricks/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb)
 
 **Performing several exercises utlitizing Pyspark (RDD) with a touch of MLlib**
 
