@@ -1,4 +1,3 @@
-
 # Spark Mini Project
 
 The project was completed in databricks and published. You may reach my Spark mini project via link below.
